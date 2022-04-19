@@ -73,7 +73,7 @@ then
 
     # 5. kill all the process running backstage automatic
     echo "you choose 5"
-    killall5 -9
+    sudo reboot
 else
     echo "Wrong choice!"
         
